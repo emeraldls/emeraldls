@@ -1,11 +1,12 @@
 # 👋 Hey, I’m Lawrence
 
-I’m a product-focused software engineer who loves building tools that make people more creative and productive.  
-I care about performance, design, and the small details that make software feel alive.
+I’m a software engineer who builds things for the fun of it - tools, apps, libraries, experiments.  
+Sometimes it’s a voice-driven productivity app, sometimes it’s a ride-hailing system with hardware integration,  
+and other times, it’s a library or a desktop recorder with auto-zoom.  
 
-I’ve built AI-native and local-first products using **Go**, **TypeScript**, **React**, and **Python** — from desktop apps to real-time web tools, to integrating hardware, and infrastructure systems.  
-I’m happiest when solving hard technical problems and turning them into simple, delightful user experiences.
+What ties it all together is curiosity. I love solving problems end-to-end, from idea to product.  
+I care about design, speed, and making things that feel *solid*.  
 
-Always exploring new ideas around **agents, voice interfaces, and local-first systems**.
+I work across the stack — **Go**, **TypeScript**, **Python**, **React**, and anything that helps me ship.  
 
 💬 [X (Twitter)](https://x.com/emeraldls) • [Email](mailto:lawrencesegun025@gmail.com)
